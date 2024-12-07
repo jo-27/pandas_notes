@@ -1,2 +1,2 @@
-# pandas_notes
-This repository contains detailed notes on Pandas, the powerful Python library for data analysis and manipulation. It includes examples, best practices, and step-by-step guides to help understand and apply key Pandas concepts. Ideal for both beginners and experienced developers.
+# Pandas Notes 📊
+Welcome to the Pandas Notes repository! This repository serves as a comprehensive guide to learning and mastering Pandas, one of the most widely used libraries for data manipulation and analysis in Python.
